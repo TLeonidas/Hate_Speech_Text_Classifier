@@ -13,7 +13,7 @@ Labels:
 0: Neutral or Ambiguous
 1: Not Hate
 2: Offensive or Hateful
-Training Data: Augmented version of [this dataset](TLeonidas/twitter-hate-speech-en-240ksamples) (279k+ rows)
+Training Data: Augmented version of [this dataset](https://huggingface.co/datasets/TLeonidas/twitter-hate-speech-en-240ksamples) (279k+ rows)
 
 ## Dataset
 The model was trained on a concatenated dataset from three distinct sources, curated to encompass a wide range of linguistic expressions and contexts. 
